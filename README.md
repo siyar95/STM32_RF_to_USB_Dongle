@@ -34,3 +34,15 @@ This project uses a 4-layer PCB for better signal integrity and power distributi
 2. **Inner Layer 1 (Layer 2)** – Ground (GND)  
 3. **Inner Layer 2 (Layer 3)** – 3.3V Power Plane  
 4. **Bottom Layer (Layer 4)** – Signal
+
+![image](https://github.com/user-attachments/assets/d5de96e2-338e-4767-8fea-f62df3d7cdf2)
+![image](https://github.com/user-attachments/assets/d76ca352-ae1d-4aad-a8ab-dcc8532eac8c)
+![image](https://github.com/user-attachments/assets/821b9fb8-751a-48a9-a28c-725da1422f3a)
+![image](https://github.com/user-attachments/assets/854e6296-1789-4e5b-be6d-7721d99a6f7e)
+![image](https://github.com/user-attachments/assets/ee3baa12-0b19-49a2-8087-1ee2f105d3f4)
+![image](https://github.com/user-attachments/assets/7aa95198-9e75-44b7-8939-3f628046dcb0)
+
+
+
+
+
